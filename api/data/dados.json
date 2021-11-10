@@ -41,6 +41,14 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "Wilker",
+      "ativo": true,
+      "email": "wilker@gmail.com",
+      "role": 2,
+      "createdAt": "2021-11-10T00:00:00.000Z",
+      "id": 7
     }
   ],
   "roles": [
